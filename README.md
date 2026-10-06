@@ -41,7 +41,7 @@ praktos_watermarking/
 ├── run_official_ablation.py
 ├── run_specialization_study.py
 ├── requirements.txt
-├── article.pdf # статья с описанием алгоритма PSO
+├── article.pdf
 ├── pics/
 ├── results/
 └── README.md
