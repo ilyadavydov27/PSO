@@ -32,6 +32,7 @@
 
 ## Структура проекта
 
+```
 praktos_watermarking/
 ├── arnold.py
 ├── attacks.py
@@ -45,6 +46,7 @@ praktos_watermarking/
 ├── pics/
 ├── results/
 └── README.md
+```
 
 ## Установка
 
